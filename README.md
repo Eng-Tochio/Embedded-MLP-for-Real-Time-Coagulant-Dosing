@@ -28,25 +28,6 @@ The work focuses on the systematic selection of machine learning models, embedde
   State University of Maringá (UEM), Department of Civil Engineering – Graduate Program in Urban Engineering  
   Corresponding author
 
-## Repository Structure
-
-The repository may include the following materials:
-
-```text
-.
-├── README.md              # Repository description and usage information
-├── LICENSE                # License information
-├── data/                  # Datasets or processed data, if publicly available
-├── docs/                  # Supplementary documentation
-├── figures/               # Figures used in the article or supplementary material
-├── models/                # Trained models or model configuration files
-├── notebooks/             # Jupyter notebooks for analysis and experimentation
-├── src/                   # Source code for model training, validation, or embedded implementation
-└── results/               # Experimental results, tables, and output files
-```
-
-> Note: Some files, datasets, or operational information may be omitted or anonymized due to confidentiality, intellectual property, or operational restrictions related to the full-scale deployment environment.
-
 ## Research Context
 
 Coagulant dosing is a critical operational step in conventional water treatment processes. Manual or rule-based dosing strategies may be affected by variability in raw water quality, operational constraints, and delayed laboratory feedback.
@@ -59,25 +40,6 @@ This study investigates the use of an embedded MLP model as a decision-support o
 - Development of an embedded MLP approach for real-time operation.
 - Deployment-oriented evaluation under full-scale water treatment conditions.
 - Practical discussion of implementation constraints, reliability, and field applicability.
-
-## How to Use This Repository
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
-```
-
-If source code or notebooks are provided, install the required dependencies according to the instructions in the corresponding folder or requirements file.
-
-Example:
-
-```bash
-pip install -r requirements.txt
-```
-
-Then run the available scripts or notebooks according to the documentation provided in each folder.
 
 ## Citation
 
