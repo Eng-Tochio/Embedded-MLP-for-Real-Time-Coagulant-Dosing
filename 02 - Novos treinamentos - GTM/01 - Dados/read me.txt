@@ -1,0 +1,30 @@
+Dados excluídos
+
+	dosagem de coagulante
+
+		menores que 30
+		retornando erros
+		maiores que 140
+
+	turbidez bruta
+
+		maiores que 500
+		retornando erros
+
+	turbidez filtrada
+
+		maiores que 1
+
+Total - 12699 dados
+	2020 - 4206 dados
+	2021 - 2546 dados
+	2022 - 3119 dados
+	2023 - 2828 dados
+
+Sequenciais
+	Treinamento - 77,73%
+	Teste (2023) - 22,27%
+
+Aleatórios, tentando manter as proporções aproximadas, serão utilizados
+	75% dos dados para treinamento - 9525 dados
+	25% dos dados para teste - 3175 dados
