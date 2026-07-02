@@ -53,9 +53,7 @@ Tochio, E. L. L., Rodrigues, M. S., Campos, L., Behzadian, K., & Lautenschlager,
 
 After generating a DOI through Zenodo, update this section with the final DOI:
 
-```text
-[DOI: https://doi.org/10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.21133394)
-```
+[DOI: https://doi.org/10.5281/zenodo.21133394](https://doi.org/10.5281/zenodo.21133394)
 
 ## License
 
